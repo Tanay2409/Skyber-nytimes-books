@@ -22,13 +22,18 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd my-project
+  cd Skyber-nytimes-books
 ```
 
 Install dependencies
 
 ```bash
   npm install
+```
+Set up .env file with your api-token
+
+```bash
+  
 ```
 
 Run the project
