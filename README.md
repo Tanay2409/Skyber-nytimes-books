@@ -33,7 +33,8 @@ Install dependencies
 Set up .env file with your api-token
 
 ```bash
-  
+  ![ss]("https://user-images.githubusercontent.com/86257435/137628254-df5724ee-c094-41b5-af02-d52188519071.PNG")
+
 ```
 
 Run the project
